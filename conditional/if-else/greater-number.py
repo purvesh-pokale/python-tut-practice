@@ -13,5 +13,7 @@ Enter the first number :15
 Enter the second number :10
 15 is greater then 10.
 
-
+Enter the first number :20
+Enter the second number :100
+100 is greater then 20.
 '''
