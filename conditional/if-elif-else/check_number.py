@@ -8,3 +8,14 @@ elif age >= 13 and age <=19:
     print("Person is teenager.")
 else:
     print("Person is adult.")
+
+'''
+Enter the age of person :30
+Person is adult.
+
+Enter the age of person :15
+Person is teenager.
+
+Enter the age of person :10
+Person is child.
+'''
