@@ -85,3 +85,48 @@ print()
 
 for i in range(1,11):
     print(f"{i}={i*2}")
+print()
+
+#7. Print all numbers from 10 to 1 (reverse order). 
+
+for i in range(10,0,-1):
+    print(i)
+
+print()
+'''
+o/p
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+'''
+
+#8. Print all elements of a given list. 
+lst=[1,2,3,4,5]
+
+for i in lst:
+    print(i)
+print()
+'''
+o/p
+1
+2
+3
+4
+5
+'''
+
+#9. Print the reverse of a string using a for loop. 
+str1="purvesh"
+
+for i in str1[::-1]:
+    print(i)
+print()
+
+
